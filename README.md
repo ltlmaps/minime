@@ -18,9 +18,7 @@ Generating a token to limit participation in a token sale or similar event to ho
 
 Generating a token that allows a central party complete control to transfer/generate/destroy tokens at will.
 
-All the applications the standard ERC 20 token can be used for, but with the ability to upgrade in the future as desired in a decentralized fashion.
-
-The MiniMeToken contract is a standard ERC20 token with extra functionality:
+All the applications the standard ERC 20 token can be used for, but with the ability to upgrade in the future as desired in a decentralized fashion. The MiniMeToken contract is a standard ERC20 token with extra functionality:
 
 ### The token is easy to clone!
 
