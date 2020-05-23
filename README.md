@@ -2,6 +2,18 @@
 
 [![Build Status](https://travis-ci.org/Giveth/minime.svg?branch=master)](https://travis-ci.org/Giveth/minime)
 
+If this token contract is used as the base token, then clones can be easily generated at any given block number, this allows for incredibly powerful functionality, effectively the ability for anyone to give extra features to the token holders without having to migrate to a new contract. Some of the applications that the MiniMe token contract can be used for are:
+
+Generating a voting token that is burned when you vote.
+Generating a “coupon” token that is redeemed when you use it.
+Generating a token for a “spinoff” DAO.
+Generating a token that can be used to give explicit support to an action or a campaign, like polling.
+Generating a token to enable the token holders to collect daily, monthly or yearly payments.
+Generating a token to limit participation in a token sale or similar event to holders of a specific token.
+Generating a token that allows a central party complete control to transfer/generate/destroy tokens at will.
+
+All the applications the standard ERC 20 token can be used for, but with the ability to upgrade in the future as desired in a decentralized fashion.
+
 The MiniMeToken contract is a standard ERC20 token with extra functionality:
 
 ### The token is easy to clone!
